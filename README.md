@@ -1,2 +1,2 @@
 # VEOR-Reboot
-We are rewriting the thing!
+We are rewriting Vecna: Eve of Ruin.
